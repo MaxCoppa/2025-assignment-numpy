@@ -38,7 +38,6 @@ def max_index(X):
         If the input is not a numpy array or
         if the shape is not 2D.
     """
-
     i_max = 0
     j_max = 0
 
